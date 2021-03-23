@@ -1,6 +1,6 @@
-# Python Profiling
+# Python Profiling Starter Kit
 
-Examples for Python profiling presentation, given at Montréal-Python on March 22nd, 2021.
+Examples for Python Profiling Starter Kit presentation, given at Montréal-Python on March 22nd, 2021.
 The profilers covered were Pyinstrument, Scalene, Py-Spy, and VizTracer.
 The `Makefile` shows an example or two for how to run each of these profilers.
 
